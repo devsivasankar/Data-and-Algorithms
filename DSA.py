@@ -7,5 +7,5 @@ def linear_search(arr,target):
             return i
     return 'not available'
 
-x = linear_search(arr,5)
+x = linear_search(arr,1)
 print(x)
